@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+* {
+    box-sizing: border-box;
+    padding: 0; margin: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-sarif;
+    font-weight: bold;
+    margin: 60px 5px 5px;
+}
+
+
+h1 {
+    background-image: url(/resources/images/hero.jpeg);
+    font-size: 100px;
+    color: khaki;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+
+.hacksaw {
+    background-color: mediumspringgreen;
+    font-size: 32px;
+    color: white;
+}
+
+img {
+    margin-top: 30px;
+}
+
+h3 {
+    margin: 10px 0;
+    font-size: 20px;
+}
+
+p {
+    font-size: 16px;
+    font-weight: normal;
+}
+
+span {
+    color: blue;
+}
+
+.frames {
+    background-color: lightcoral;
+    font-size: 32px;
+    color: white;
+    margin-top: 20px;
+}
+
+.finnish {
+    background-color: skyblue;
+    font-size: 32px;
+    color: white;
+    margin-top: 20px;
+}
+
