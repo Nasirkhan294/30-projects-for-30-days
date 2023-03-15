@@ -20,5 +20,6 @@ This is the main repository for all of the projects in the course.
 | 14  | [My Style Guide](https://github.com/Nasirkhan294/my-style-guide)                        | [Live Demo](https://nasirkhan294.github.io/my-style-guide/)         |
 | 15  | [People Counter](https://github.com/Nasirkhan294/people-counter)                        | [Live Demo](https://nasirkhan294.github.io/people-counter/)         |
 | 16  | [Product Landing Page](https://github.com/Nasirkhan294/product-landing-page)            | [Live Demo](https://nasirkhan294.github.io/product-landing-page/)   |
+| 17  | [Chore Door Game](https://github.com/Nasirkhan294/chore-door-game)            | [Live Demo](https://nasirkhan294.github.io/chore-door-game/)   |
 
 **Friendly NOTE**: Get ready to supercharge your coding journey! I've put my own spin on some amazing projects from [Brad Traversy Media](https://bradtraversy/50projects50days) that have helped me immensely. And I know they'll do the same for you, as long as you stay dedicated. Trust me, these projects are game-changers! If you find them helpful, please show your support by giving this repository some love. Your small gesture of appreciation will go a long way in encouraging me to keep bringing you more incredible content like this.
