@@ -11,6 +11,7 @@ This is the main repository for all of the projects in the course.
 | 05  | [Blurry background](https://github.com/Nasirkhan294/blurry-background) | [Live Demo](https://nasirkhan294.github.io/blurry-background/)                             
 | 06  | [Repaint background](https://github.com/Nasirkhan294/repaint-bg) | [Live Demo](https://nasirkhan294.github.io/repaint-bg/) 
 | 07  | [Scroll Animation](https://github.com/Nasirkhan294/scroll-animation) | [Live Demo](https://nasirkhan294.github.io/scroll-animation/)                            
-| 08  | [Scroll Animation](https://github.com/Nasirkhan294/blackjack-game) | [Live Demo](https://nasirkhan294.github.io/blackjack-game/)                            
+| 08  | [Blackjack Game](https://github.com/Nasirkhan294/blackjack-game) | [Live Demo](https://nasirkhan294.github.io/blackjack-game/)                            
+| 09  | [Business Card](https://github.com/Nasirkhan294/business-card) | [Live Demo](https://nasirkhan294.github.io/business-card/)                            
 
 **Friendly NOTE**: All the projects taken from [Brad Traversy Media](https://bradtraversy/50projects50days) and coded in my own way. Moreover, These projects helped me a lot in my coding journey and I am sure it'll help you too in your coding journey if you stay consistent. Please do support this repository because your small appreciation would mean a lot to me and encourage me to bring more helpful content like this.
