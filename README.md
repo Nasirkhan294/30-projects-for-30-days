@@ -24,5 +24,6 @@ This is the main repository for all of the projects in the course.
 | 18  | [Recipe Cards](https://github.com/Nasirkhan294/recipe-cards)            | [Live Demo](https://nasirkhan294.github.io/recipe-cards/)   |
 | 19  | [Rogue Pickings](https://github.com/Nasirkhan294/rogue-pickings)            | [Live Demo](https://nasirkhan294.github.io/rogue-pickings/)   |
 | 20  | [Unplugged](https://github.com/Nasirkhan294/unplugged)            | [Live Demo](https://nasirkhan294.github.io/unplugged/)   |
+| 21  | [Vision Board](https://github.com/Nasirkhan294/vision-board)            | [Live Demo](https://nasirkhan294.github.io/vision-board/)   |
 
 **Friendly NOTE**: Get ready to supercharge your coding journey! I've put my own spin on some amazing projects from [Brad Traversy Media](https://bradtraversy/50projects50days) that have helped me immensely. And I know they'll do the same for you, as long as you stay dedicated. Trust me, these projects are game-changers! If you find them helpful, please show your support by giving this repository some love. Your small gesture of appreciation will go a long way in encouraging me to keep bringing you more incredible content like this.
