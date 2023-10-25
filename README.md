@@ -31,6 +31,7 @@ This is the main repository for all of the projects in the course.
 | 25  | [Piano Player](https://github.com/Nasirkhan294/piano-player)            | [Live Demo](https://nasirkhan294.github.io/piano-player/)   |
 | 26  | [Budget Calculator](https://github.com/Nasirkhan294/budget-calculator)            | [Live Demo](https://nasirkhan294.github.io/budget-calculator/)   |
 | 27  | [Number Guessing Game](https://github.com/Nasirkhan294/number-guessing-game)            | [Live Demo](https://nasirkhan294.github.io/number-guessing-game/)   |
+| 28  | [Planet table](https://github.com/Nasirkhan294/planet-table)            | [Live Demo](https://nasirkhan294.github.io/planet-table/)   |
 
 **Friendly NOTE**: Get ready to supercharge your coding journey! I've put my own spin on some amazing projects from [Brad Traversy Media](https://bradtraversy/50projects50days) that have helped me immensely. And I know they'll do the same for you, as long as you stay dedicated. Trust me, these projects are game-changers! If you find them helpful, please show your support by giving this repository some love. Your small gesture of appreciation will go a long way in encouraging me to keep bringing you more incredible content like this.
 
