@@ -1,6 +1,10 @@
-# 50 Projects in 50 Days - HTML/CSS and JavaScript
+<a name="readme-top"></a>
 
-This is the main repository for all of the projects in the course.
+<div align="center">
+  <h1>📖30 Projects in 30 Days - HTML/CSS and JavaScript</h>
+</div>
+
+This repository contains over 30 small-scale projects utilizing HTML, CSS, and JavaScript. Each project serves as a practical demonstration of fundamental web development techniques.
 
 |  #  | Projects                                                                                | Live Demo                                                           |
 | :-: | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
