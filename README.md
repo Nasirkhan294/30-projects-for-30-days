@@ -36,8 +36,8 @@ This repository contains over 30 small-scale projects utilizing HTML, CSS, and J
 | 26  | [Budget Calculator](https://github.com/Nasirkhan294/budget-calculator)                  | [Live Demo](https://nasirkhan294.github.io/budget-calculator/)      |
 | 27  | [Number Guessing Game](https://github.com/Nasirkhan294/number-guessing-game)            | [Live Demo](https://nasirkhan294.github.io/number-guessing-game/)   |
 | 28  | [Planet table](https://github.com/Nasirkhan294/planet-table)                            | [Live Demo](https://nasirkhan294.github.io/planet-table/)           |
-| 29  | [Newsletter-signup-form](https://github.com/Nasirkhan294/newsletter-signup-form)        | [Live Demo](https://nasirkhan294.github.io/newsletter-signup-form/) |
-| 30  | [To-do-list](https://github.com/Nasirkhan294/to-do-list)                                | [Live Demo](https://nasirkhan294.github.io/to-do-list/)             |
+| 29  | [Newsletter signup form](https://github.com/Nasirkhan294/newsletter-signup-form)        | [Live Demo](https://nasirkhan294.github.io/newsletter-signup-form/) |
+| 30  | [Feedback form](https://github.com/Nasirkhan294/feedback_form)                          | [Live Demo](https://nasirkhan294.github.io/feedback_form/)          |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
